@@ -1,36 +1,48 @@
-.body{
+.body {
     height: 5000px;
 }
+
 .header img {
     height: 20rem;
-    padding-left: 40%;
+    /* padding-left: 40%; */
     /* padding-top: 5%; */
     /* background-color: #2ed573; */
 }
 
 .header {
     background-color: #1abc9c;
+    height: 80vh;
+    align-items: center;
+    text-align: center;
 }
 
 .portfolio1 {
-    padding-left: 37%;
+    align-items: center;
+    text-align: center;
+    /* padding-left: 37%; */
     font-size: 4rem;
     color: #ffffff;
 }
 
 .ion1 {
-    padding-left: 47%;
+    align-items: center;
+    text-align: center;
+    /* padding-left: 50%; */
     font-size: 3rem;
     color: #ffffff;
 }
 
 .portfolio2 {
-    padding-left: 37%;
+    align-items: center;
+    text-align: center;
+    /* padding-left: 37%; */
     color: #ffffff;
 }
 
 .nav {
     background-color: #2f3542;
+    height: 10vh;
+    display: flex !important;
 }
 
 .img1 {
@@ -38,77 +50,117 @@
 }
 
 .portfolio3 {
-    padding-left: 40%;
+    padding-left: 35.5%;
     font-size: 4.5rem;
 }
 
 .ion2 {
-    padding-left: 47%;
+    padding-left: 49%;
     font-size: 3rem;
 }
 
 .p1 {
     font-size: 1.5rem;
-     color: #ffffff;
+    color: #ffffff;
 }
 
 .ion3 {
-    
+
     font-size: 3rem;
-     color: #ffffff;
+    color: #ffffff;
 }
-.portfolio4{
+
+.portfolio4 {
     font-size: 4rem;
     color: #ffffff;
 }
-.aboutpage{
+
+.aboutpage {
     background-color: #1abc9c;
+    height: 70vh;
 }
-.download{
+
+.download {
     text-align: center;
-   
+
 }
-.pagesection{
+
+.pagesection {
     text-align: center;
     padding-top: 5rem;
 }
-.portfolio5{
+
+.portfolio5 {
     font-size: 3rem;
 }
-.ion4{
-     font-size: 3rem;
-}
-.ion5{
+
+.ion4 {
     font-size: 3rem;
 }
-.footerone{
-  background-color: #2c3e50;  
-  padding-top: 5rem;
-}
-.footerone .h4{
+
+.ion5 {
+    font-size: 2.5rem;
     color: #ffffff;
+    background-color: #2c3e50;
 }
-.p2{
+
+.footerone {
+    background-color: #2c3e50;
+    padding-top: 5rem;
+    height: 40vh;
+}
+
+.footerone .h4 {
+    color: #ffffff;
+
+}
+
+.p2 {
     color: #ffffff;
     font-size: 1rem;
 }
-.portfolio6{
+
+.portfolio6 {
     color: #ffffff;
     font-size: 2rem;
 }
-.lastpage{
+
+.lastpage {
     background-color: #2f3542;
     text-align: center;
     height: 5vh;
 }
-.last{
+
+.last {
     color: #ffffff;
     font-size: 1rem;
     padding-top: 0.5%;
 }
-.imageportfolio{
-padding: 6rem;
+
+.imageportfolio {
+    padding: 6rem;
 }
-.first{
+
+.first {
     color: #ffffff;
+}
+
+.nav-link {
+    color: #ffffff;
+    padding-left: 3rem;
+    padding-top: 0.8rem;
+    font-size: 1.5rem;
+}
+
+.btn-primary {
+    background-color: #1abc9c;
+/* padding-top: 1.5rem; */
+    font-size: 180%;
+
+}
+.form-control{
+    width: 65rem;
+    align-items: center;
+    text-align: center;
+    padding-left: 4rem;
 }
